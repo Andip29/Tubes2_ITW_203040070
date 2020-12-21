@@ -1,0 +1,26 @@
+.main-section {
+    min-height: 100vh;
+}
+
+.main-background {
+    background-color: #272c30;
+}
+
+.before-line::before {
+    content: "";
+    display: inline-block;
+    width: 60px;
+    height: 1px;
+    background-color: #fff;
+    vertical-align: middle;
+}
+
+.before-line span {
+    padding-left: 10px;
+    position: relative;
+}
+
+.about hr {
+    width: 250px;
+    border-top: 4px solid #666;
+}
