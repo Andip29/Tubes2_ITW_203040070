@@ -1,0 +1,20 @@
+///Home
+Gambar/Foto
+1.Foto sendiri 
+2.Logo Instagram (Di ambil dari unsplash.com)
+
+///About
+Gambar/Foto
+1. Foto sendiri
+
+///Portfolio
+Gambar/Foto
+1.img/1.jpg (Diambil dari Pinterest)
+2.img/2.jpg (Diambil dari Pinterest)
+3.img/3.jpg (Diambil dari Pinterest)
+4.img/4.jpg (Diambil dari Pinterest)
+5.img/5.jpg (Diambil dari Pinterest)
+6.img/6.jpg (Diambil dari Pinterest)
+
+///Font
+Menggunakan (fontawesom offline)
